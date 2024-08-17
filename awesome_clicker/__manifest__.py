@@ -7,7 +7,7 @@
     """,
 
     'description': """
-        Starting module for "Master the Odoo web framework, chapter 1: Build a Clicker game"
+        JUPE Starting module for "Master the Odoo web framework, chapter 1: Build a Clicker game"
     """,
 
     'author': "Odoo",
